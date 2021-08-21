@@ -1,0 +1,16 @@
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\bin\Debug\net5.0\Helloworld.exe
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\bin\Debug\net5.0\Helloworld.deps.json
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\bin\Debug\net5.0\Helloworld.runtimeconfig.json
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\bin\Debug\net5.0\Helloworld.runtimeconfig.dev.json
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\bin\Debug\net5.0\Helloworld.dll
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\bin\Debug\net5.0\ref\Helloworld.dll
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\bin\Debug\net5.0\Helloworld.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\obj\Debug\net5.0\Helloworld.csproj.AssemblyReference.cache
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\obj\Debug\net5.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\obj\Debug\net5.0\Helloworld.AssemblyInfoInputs.cache
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\obj\Debug\net5.0\Helloworld.AssemblyInfo.cs
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\obj\Debug\net5.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\obj\Debug\net5.0\Helloworld.dll
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\obj\Debug\net5.0\ref\Helloworld.dll
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\obj\Debug\net5.0\Helloworld.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\lab01\Helloworld\obj\Debug\net5.0\Helloworld.genruntimeconfig.cache
