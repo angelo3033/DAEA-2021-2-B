@@ -48,6 +48,27 @@ namespace ConsoleApp1
             }
         }
 
+        static void Primos()
+        {
+            int cont = 0;
+            for (int l = 2; l <= 30; l++)
+            {
+                for (int k = 1; k <= l; k++)
+                {
+                    if (l % k == 0)
+                    {
+                        cont = cont + 1;
+                    }
+                }
+                if (cont <= 2)
+                {
+                    Console.WriteLine(l);
+                }
+                cont = 0;
+            }
+            Console.ReadKey();
+        }
+
         static void Main(string[] args)
         {
             Console.Title = "Procedimientos y funciones";
@@ -60,6 +81,7 @@ namespace ConsoleApp1
                 Console.WriteLine("[3] Division de dos números");
                 Console.WriteLine("[4] Multiplicacion de dos números");
                 Console.WriteLine("[5] Imprimir la raíz cuadrada de los 10 primeros números enteros");
+                Console.WriteLine("[6] Imprimir los primeros 10 numeros primos");
                 Console.WriteLine("[0] Salir");
                 Console.WriteLine("Ingrese una opción y presione ENTER");
                 opcion = Console.ReadLine();
@@ -102,6 +124,11 @@ namespace ConsoleApp1
                     case "5":
                         Console.WriteLine("Calculando...");
                         Raiz();
+                        Console.ReadKey();
+                        break;
+                    case "6":
+                        Console.WriteLine("Calculando...");
+                        Primos();
                         Console.ReadKey();
                         break;
                 }
