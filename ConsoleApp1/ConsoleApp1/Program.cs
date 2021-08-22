@@ -48,6 +48,37 @@ namespace ConsoleApp1
             }
         }
 
+        static void Primos()
+        {
+            int cont = 0;
+            for (int l = 2; l <= 30; l++)
+            {
+                for (int k = 1; k <= l; k++)
+                {
+                    if (l % k == 0)
+                    {
+                        cont = cont + 1;
+                    }
+                }
+                if (cont <= 2)
+                {
+                    Console.WriteLine(l);
+                }
+                cont = 0;
+            }
+            Console.ReadKey();
+        }
+
+        static double Celsius(double f)
+        {
+            return (5*(f - 32))/9;
+        }
+
+        static double Fahrenheit(double c)
+        {
+            return ((9 * c)/5) + 32;
+        }
+
         static void Main(string[] args)
         {
             Console.Title = "Procedimientos y funciones";
@@ -60,11 +91,16 @@ namespace ConsoleApp1
                 Console.WriteLine("[3] Division de dos números");
                 Console.WriteLine("[4] Multiplicacion de dos números");
                 Console.WriteLine("[5] Imprimir la raíz cuadrada de los 10 primeros números enteros");
+                Console.WriteLine("[6] Imprimir los primeros 10 numeros primos");
+                Console.WriteLine("[7] convertir De Fahrenheit a Celsius");
+                Console.WriteLine("[8] convertir De Celsius a Fahrenheit");
                 Console.WriteLine("[0] Salir");
                 Console.WriteLine("Ingrese una opción y presione ENTER");
                 opcion = Console.ReadLine();
                 int a;
                 int b;
+                double c;
+                double f;
                 switch (opcion)
                 {
                     case "1":
@@ -102,6 +138,23 @@ namespace ConsoleApp1
                     case "5":
                         Console.WriteLine("Calculando...");
                         Raiz();
+                        Console.ReadKey();
+                        break;
+                    case "6":
+                        Console.WriteLine("Calculando...");
+                        Primos();
+                        Console.ReadKey();
+                        break;
+                    case "7":
+                        Console.WriteLine("Ingrese el valor de Fahrenheit");
+                        f = Convert.ToDouble(Console.ReadLine());
+                        Console.WriteLine("El valor de Fahrenheit es {0} por lo cual el valor de Celsius es {1}", f, Celsius(f));
+                        Console.ReadKey();
+                        break;
+                    case "8":
+                        Console.WriteLine("Ingrese el valor de Celsius");
+                        c = Convert.ToDouble(Console.ReadLine());
+                        Console.WriteLine("El valor de Celsius es {0} por lo cual el valor de Fahrenheit es {1}", c, Fahrenheit(c));
                         Console.ReadKey();
                         break;
                 }
