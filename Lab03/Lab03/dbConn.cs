@@ -37,7 +37,6 @@ namespace Lab03
             String bd = txtBaseDatos.Text;
             String user = txtUsuario.Text;
             String pwd = txtPassword.Text;
-
             String str = "Server=" + servidor + ";Database=" + bd + ";";
 
             //la cadena de conexion cambia en funcion del estado del Checkbox
