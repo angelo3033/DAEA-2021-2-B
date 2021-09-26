@@ -1,0 +1,12 @@
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\obj\Debug\Lab04.dbConn.resources
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\obj\Debug\Lab04.Persona.resources
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\obj\Debug\Lab03.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\Lab03\Lab03\obj\Debug\Lab04.Curso.resources

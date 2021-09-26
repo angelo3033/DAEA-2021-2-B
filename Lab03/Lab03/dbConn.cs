@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace Lab03
+namespace Lab04
 {
     public partial class dbConn : Form
     {
@@ -110,6 +110,18 @@ namespace Lab03
                 txtUsuario.Enabled = true;
                 txtPassword.Enabled = true;
             }
+        }
+
+        private void btnPersona_Click(object sender, EventArgs e)
+        {
+            Persona persona = new Persona(conn);
+            persona.Show();
+        }
+
+        private void btnCurso_Click(object sender, EventArgs e)
+        {
+            Curso curso = new Curso(conn);
+            curso.Show();
         }
     }
 }
