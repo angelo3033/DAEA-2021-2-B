@@ -1,0 +1,15 @@
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\bin\Debug\Presentacion.exe.config
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\bin\Debug\Presentacion.exe
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\bin\Debug\Presentacion.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\bin\Debug\Negocio.dll
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\bin\Debug\Negocio.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\obj\Debug\Presentacion.exe
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\obj\Debug\Presentacion.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\bin\Debug\Datos.dll
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\bin\Debug\Datos.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Presentacion\obj\Debug\Presentacion.Form1.resources

@@ -1,0 +1,9 @@
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Negocio\bin\Debug\Negocio.dll
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Negocio\bin\Debug\Negocio.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Negocio\bin\Debug\Datos.dll
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Negocio\bin\Debug\Datos.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Negocio\obj\Debug\Negocio.dll
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Negocio\obj\Debug\Negocio.pdb

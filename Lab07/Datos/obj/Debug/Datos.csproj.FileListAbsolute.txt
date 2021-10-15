@@ -1,0 +1,6 @@
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Datos\bin\Debug\Datos.dll
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Datos\bin\Debug\Datos.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Datos\obj\Debug\Datos.dll
+C:\DAEA\codigos\DAEA-2021-2-B\Lab07\Datos\obj\Debug\Datos.pdb
