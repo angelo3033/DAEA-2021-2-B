@@ -71,6 +71,5 @@ C:\DAEA\codigos\DAEA-2021-2-B\Lab09\Lab09\bin\es\System.Web.Optimization.resourc
 C:\DAEA\codigos\DAEA-2021-2-B\Lab09\Lab09\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
 C:\DAEA\codigos\DAEA-2021-2-B\Lab09\Lab09\obj\Debug\Lab09.csproj.AssemblyReference.cache
 C:\DAEA\codigos\DAEA-2021-2-B\Lab09\Lab09\obj\Debug\Lab09.csproj.CoreCompileInputs.cache
-C:\DAEA\codigos\DAEA-2021-2-B\Lab09\Lab09\obj\Debug\Lab09.csproj.CopyComplete
 C:\DAEA\codigos\DAEA-2021-2-B\Lab09\Lab09\obj\Debug\Lab09.dll
 C:\DAEA\codigos\DAEA-2021-2-B\Lab09\Lab09\obj\Debug\Lab09.pdb
