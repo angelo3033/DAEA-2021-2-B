@@ -1,0 +1,15 @@
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\bin\Debug\SchoolBLL.dll
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\bin\Debug\SchoolBLL.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.dll
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\bin\Debug\EntityFramework.dll
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll.config
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\bin\Debug\EntityFramework.xml
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.AssemblyReference.cache
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.CoreCompileInputs.cache
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.CopyComplete
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.dll
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.pdb
+C:\DAEA\codigos\DAEA-2021-2-B\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.dll.config
