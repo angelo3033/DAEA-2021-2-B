@@ -1,0 +1,78 @@
+﻿@model Lab14.Products
+@{
+    ViewBag.Title = "DeleteProduct";
+}
+
+<h3>¿Desea eliminar el registro?</h3>
+
+<fieldset>
+    <legend>Categories</legend>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.ProductID)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ProductID)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.ProductName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ProductName)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.SupplierID)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SupplierID)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.CategoryID)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CategoryID)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.QuantityPerUnit)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.QuantityPerUnit)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.UnitPrice)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UnitPrice)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.UnitsInStock)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UnitsInStock)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.UnitsOnOrder)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UnitsOnOrder)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.ReorderLevel)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ReorderLevel)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Discontinued)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Discontinued)
+    </div>
+</fieldset>
+
+@using (Html.BeginForm())
+{
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Retornar a Index", "Index")
+    </p>
+}        
