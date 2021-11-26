@@ -123,7 +123,7 @@ namespace Lab13.Controllers
             });
 
             Persona per = (from p in personas
-                           where p.Nombre == persona.Nombre || p.Apellido == persona.Nombre
+                           where p.Nombre == persona.Nombre || p.Apellido == persona.Apellido
                            select p).FirstOrDefault();
 
             return View(per);
