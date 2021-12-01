@@ -44,32 +44,32 @@ namespace Lab10
             //            where p.Discontinued == true
             //            select p;
 
-            //var query = from p in context.Products
-            //            join a in context.Suppliers
-            //            on p.SupplierID equals a.SupplierID
-            //            where p.Categories.CategoryName == "Dairy Products"
-            //            select new 
-            //            {
-            //                prod_id = p.ProductID,
-            //                prod_name = p.ProductName,
-            //                prov_name = a.CompanyName
-            //            };
-
-            //foreach (var prod in query)
-            //{
-            //    Console.WriteLine("ID={0} \t Name={1} \t Proveedor={2}",
-            //    prod.prod_id, prod.prod_name, prod.prov_name); 
-            //}
-
             var query = from p in context.Products
-                        where p.Suppliers.Country == "USA"
-                        select p;
+                        join a in context.Suppliers
+                        on p.SupplierID equals a.SupplierID
+                        where p.Categories.CategoryName == "Dairy Products"
+                        select new
+                        {
+                            prod_id = p.ProductID,
+                            prod_name = p.ProductName,
+                            prov_name = a.CompanyName
+                        };
 
             foreach (var prod in query)
             {
-                Console.WriteLine("ID={0} \t Name={1}",
-                prod.ProductID, prod.ProductName);
+                Console.WriteLine("ID={0} \t Name={1} \t Proveedor={2}",
+                prod.prod_id, prod.prod_name, prod.prov_name);
             }
+
+            //var query = from p in context.Products
+            //            where p.Suppliers.Country == "USA"
+            //            select p;
+
+            //foreach (var prod in query)
+            //{
+            //    Console.WriteLine("ID={0} \t Name={1}",
+            //    prod.ProductID, prod.ProductName);
+            //}
 
             //Products p = new Products();
             //p.ProductName = "Peruvian Coffe";
